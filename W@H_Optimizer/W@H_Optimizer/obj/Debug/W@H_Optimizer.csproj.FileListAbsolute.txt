@@ -1,0 +1,11 @@
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W@H_Optimizer.csprojAssemblyReference.cache
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W_H_Optimizer.Properties.Resources.resources
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W@H_Optimizer.csproj.GenerateResource.cache
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W@H_Optimizer.csproj.CoreCompileInputs.cache
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\bin\Debug\W@H_Optimizer.exe.config
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\bin\Debug\W@H_Optimizer.exe
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\bin\Debug\W@H_Optimizer.pdb
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W@H_Optimizer.exe
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W@H_Optimizer.pdb
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W_H_Optimizer.InfoForm.resources
+C:\Users\gvog\source\repos\W@H_Optimizer\W@H_Optimizer\obj\Debug\W_H_Optimizer.Form1.resources
